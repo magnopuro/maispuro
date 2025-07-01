@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  }
-}
+bash
+  npm install react-scripts}
+git add.
+git commit -m "corrigir dependencia react-scripts"
+git push}
+
